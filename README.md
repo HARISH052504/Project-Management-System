@@ -1,4 +1,4 @@
-Project Management System
+*Project Management System*
 Overview
 
 The Project Management System (PMS) is a full-stack web application designed to streamline project tracking and collaboration. It helps users monitor project progress, manage tasks, and efficiently communicate within teams. This system aims to improve productivity by organizing project information in a centralized platform.
